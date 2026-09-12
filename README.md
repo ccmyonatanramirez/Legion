@@ -15,6 +15,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
+README.md  - Documentacion repositorio
 ```
 
 ## El Consejo de Villanos
@@ -65,3 +66,5 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 ---
 
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
+
+Contacto Legion del mal
