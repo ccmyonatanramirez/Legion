@@ -1,4 +1,4 @@
-# 🦹‍♂️ La Legión del Mal de la Galaxia
+# 🦹‍♂️ La Legión del Mal Pensadores
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
